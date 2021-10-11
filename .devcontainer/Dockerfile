@@ -1,1 +1,1 @@
-FROM node:16.10-bullseye-slim
+FROM node:16.10-alpine
